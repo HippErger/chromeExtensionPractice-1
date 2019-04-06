@@ -3,7 +3,7 @@
   "name": "Berger - Getting Started Example-1",
   "version": "1.0",
   "description": "Build an Extension!",
-  "permissions": ["declarativeContent", "storage"],
+  "permissions": ["activeTab", "declarativeContent", "storage"],
   "background": {
     "scripts": ["background.js"],
     "persistent": false
